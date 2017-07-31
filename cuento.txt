@@ -10,4 +10,5 @@ cria de ganados tanto de vacuno, porcino, aves de corral, bovino. El esposo se d
 a la comercializacion de mercancias, en este caso de dulces y melcochas que le tocaba traer
 desde la provincia de Bolivar, hacian viajes largos que duraban de 7 a 15 dias y lo hacian en 
 transportes muy rudimentarios para ese entonces solo habian los caballos y las mulas de carga
-en las que transportaban la mercaderia desde la ciudad del corazon hasta San andres...
+en las que transportaban la mercaderia desde la ciudad del corazon hasta San andres.
+
