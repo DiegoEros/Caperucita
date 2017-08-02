@@ -12,3 +12,4 @@ desde la provincia de Bolivar, hacian viajes largos que duraban de 7 a 15 dias y
 transportes muy rudimentarios para ese entonces solo habian los caballos y las mulas de carga
 en las que transportaban la mercaderia desde la ciudad del corazon hasta San andres.
 
+Para que funcione el commit hay que escribir una informacion como referncia
